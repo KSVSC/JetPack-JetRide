@@ -1,0 +1,58 @@
+## Execute:
+1.Create a build folder(mkdir build)
+2.cd into build folder(cd build)
+3.run : cmake ..
+4.run make all
+5.compile ./graphic_asgn1
+
+CONTROLS:
+SpaceBar- Jump
+Left/Right Arrows- Navigation
+Up/Down- Shoot waterballoons in Up/Downwards
+
+How Game Works?
+-> By collecting coins of different colours your score is increased accordingly.
+-> Magnets and Circular Rings Randomnly appear which effect your movement.
+-> Once when enter the Semicircular Ring you tend to move in semicircular path and you are protected from the enemies.
+-> The game has 4 enemies Firelines, Firebeams, Bomerang and Viserion when collided with your player, loses lives.
+-> Your plauer can use Up/Down keys to throw waterballoons on Firelines and Firebeams to kill them.
+-> There are 3 different kinds of SpecialObjects, when collected gives you bonus like Shield, SpeedUp, Knives respectively.
+-> Shield protects you from all the enemies.
+-> Using knives you can kill all your enemies (except Viserion)
+-> The 4th Enemy Viserion (has no death) moves according to your player's height and throw Iceballs. Player when collides with the Iceball loses life.
+
+OBJECTS:
+->Platform
+->Wall
+->Player
+->Coins
+->Enemy1 (Firelines)
+->Enemy2 (Firebeams)
+->Enemy3 (Bomerang)
+->Enemy4 (Viserion)
+->FLying Object 1
+->Flying Object 2
+->Flyinig Object 3
+->Magnets
+->Circular Ring
+->Waterball
+->Iceball
+
+FEATURES:
+-> Implemented Basic Physics (like player experiences Gravity, Projectile motion etc..)
+-> Player moves in any direction (Using Up/Down)
+-> Can Jump by activating his jetpack (On Press Space)
+-> Jetpack emits fire
+-> Can Zoom In/Out by mouse scroll.
+-> Panning of the screen is automatically done when player reaches end
+-> Water ballons
+-> Score display using 7 segment
+-> Different Stages(levelup) and Increase in difficulty with score.
+-> Safe zone when inside Semicircular ring.
+
+BONUS:
+->Implemented Enemy4(VISERION) moves according to the player(Y direction) and throw Iceballs on to the player.
+->SpeedUp with special flying object 1.
+->Knives with special flying object 2.
+->Shield with special flying object 3.
+->Seven segment display for Score
