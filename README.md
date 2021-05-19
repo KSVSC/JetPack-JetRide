@@ -1,6 +1,8 @@
 # JetPack JamRide
-This is a 2D game implemented in OpenGL using C++. This was done as part of Graphics course at IIIT Hyderabad.
-
+This is a 2D Jetpack JoyRider game you must have played in childhood, implemented using OpenGL. 
+<br>
+  ![alt-text](demo.gif)
+<br>
 ## Usage
 <br>1.Create a build folder`mkdir build`
 <br>2.cd into build folder `cd build`
@@ -12,3 +14,5 @@ This is a 2D game implemented in OpenGL using C++. This was done as part of Grap
 <br>SpaceBar- Jump
 <br>Left/Right Arrows- Navigation
 <br>Up/Down- Shoot waterballoons in Up/Downwards
+
+This was done as part of the Graphics course at IIIT Hyderabad.
