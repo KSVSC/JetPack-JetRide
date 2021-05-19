@@ -1,4 +1,4 @@
-# JetPack JamRide
+# JetPack JoyRide
 This is a 2D Jetpack JoyRider game you must have played in childhood, implemented using OpenGL. 
 <br>
   ![alt-text](demo.gif)
