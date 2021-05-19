@@ -10,9 +10,9 @@ This is a 2D Jetpack JoyRider game you must have played in childhood, implemente
 <br>4.run `make all`
 <br>5.compile `./graphic_asgn1`
 
-### CONTROLS:
-<br>SpaceBar- Jump
-<br>Left/Right Arrows- Navigation
-<br>Up/Down- Shoot waterballoons in Up/Downwards
+### Game Controls:
+- SpaceBar- Jump
+- Left/Right Arrows- Navigation
+- Up/Down- Shoot waterballoons in Up/Downwards
 
 This was done as part of the Graphics course at IIIT Hyderabad.
