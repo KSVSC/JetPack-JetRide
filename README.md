@@ -1,8 +1,8 @@
 # JetPack JoyRide
 This is a 2D Jetpack JoyRider game you must have played in childhood, implemented using OpenGL. 
-<br>
+<p align="center">
   ![alt-text](demo.gif)
-<br>
+</p>
 ## Usage
 <br>1.Create a build folder`mkdir build`
 <br>2.cd into build folder `cd build`
